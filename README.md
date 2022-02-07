@@ -4,6 +4,6 @@ Welcome to the best Datasette Repository on the Internet
 
 Maintained by Greg Morton
 
-Heyoooooooooo!!!!!!!
+heyoooooo!
 
 JOUR628O
